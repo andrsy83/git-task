@@ -12,6 +12,7 @@ def multiply(a, b):
     # TODO: не реализовано
     return a * b
 
+
 def sqrt(x):
     return math.sqrt(x)
 
